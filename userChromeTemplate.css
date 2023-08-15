@@ -1,0 +1,7 @@
+#personal-bookmarks .bookmark-item[label="Priority Emails"] image {
+    width: 0 !important;
+    height: 0 !important;
+    padding: 0 0 16px 16px !important;
+    background: url('Icons/PriorityEmails.png') no-repeat !important;
+    background-size: 16px 16px !important;  /* Explicitly set the background image size */
+}
