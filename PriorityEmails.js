@@ -9,5 +9,5 @@ javascript: (function () {
   window.location.href =
     "https://mail.google.com/mail/u/" +
     userValue +
-    "/#search/label%3Ainbox+%7C+is%3Astarred+%7C+is%3Aunread";
+    "/#search/label%3Ainbox+|+is%3Astarred+|+is%3Aunread+|+in%3Adraft";
 })();
