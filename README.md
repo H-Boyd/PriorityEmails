@@ -6,3 +6,6 @@ filter:
 
 If you are already signed into gmail in the current window, this shortcut will
 apply the filter to the profile in use.
+
+To get the icon to work, make sure to go to about:config and set 
+toolkit.legacyUserProfileCustomizations.stylesheets to true.
